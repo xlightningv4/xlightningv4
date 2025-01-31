@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi there, I'm Yıldırım </h1>
+<h1 align="center">⚡ Hi there, I'm Lightning </h1>
 <h3 align="center">Passionate Developer | Python, JavaScript, PHP</h3>
 
 <p align="center">
