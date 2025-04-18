@@ -24,5 +24,5 @@
 ### 📫 Contact Me:
 <p align="center">
   <a href="https://github.com/xlightningv4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.com/users/1117891115014701056"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/785930713630375946"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
